@@ -164,6 +164,14 @@ nav {
   align-items: center;
   box-shadow: var(--dark-shadow);
 }
+
+#nav-hex {
+  background-color: hsl(125, 67%, 44%);
+  height: 3rem;
+  display: grid;
+  align-items: center;
+  box-shadow: var(--dark-shadow);
+}
 .nav-center {
   width: 90vw;
   max-width: var(--fixed-width);
